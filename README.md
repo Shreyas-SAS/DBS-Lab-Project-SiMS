@@ -1,0 +1,1 @@
+This is our project for DBS Lab that is regarding a Super-Market Inventory Management System
