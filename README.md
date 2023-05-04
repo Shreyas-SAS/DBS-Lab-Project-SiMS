@@ -112,13 +112,13 @@ Install dependencies
 Start the server (Please set up the environment variables before starting the server)
 
 ```bash
-  npm run start
+  npm start
 ```
 
 Type this is your browser to open the local version of the website
 
 ```bash
-  http://localhost:5000/
+  http://localhost:3000/
 ```
 
   
